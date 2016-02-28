@@ -1,0 +1,28 @@
+name: donutters
+favicon: null
+layout_spectrum: 0.47397436015307903
+typography_spectrum: 0.03993193036876619
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5353614459745586
+  lightness: 0.5459966766647995
+  saturation: 0.02435514470562339
+  rhythmicContrast: 0.1551085258834064
+purpose: []
